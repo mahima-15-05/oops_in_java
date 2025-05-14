@@ -45,6 +45,6 @@ public class StackWithTwoQueues {
             System.out.print(s.top()+"  ");
             s.pop();
         }
-        System.out.println("Stack with 2 queues");
+        System.out.println("Stack with 2 queues ---> git");
     }
 }
